@@ -1,3 +1,3 @@
 # Workspace instructions
 
-When a task concerns academic papers, theses, abstracts, literature reviews, or bilingual Chinese-English scholarly editing, read and follow `skills/academic-humanizer/SKILL.md` before editing.
+When a task concerns academic papers, theses, abstracts, literature reviews, or bilingual Chinese-English scholarly editing, read and follow `.agents/skills/academic-humanizer/SKILL.md` before editing.
