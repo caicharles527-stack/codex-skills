@@ -56,6 +56,26 @@ Unless the user requests a different format, return:
 
 For a long manuscript, revise section by section and keep the same headings and citation structure. For file editing, preserve the original file and write the revised copy to a new path unless the user explicitly authorizes overwriting.
 
+## SACE Academic Integrity
+
+Use this module when the user supplies an SACE task sheet, rubric, academic-integrity policy, AI-use requirement, draft versions, revision notes, or research materials. Apply only the supplied requirements; do not claim that a paper complies with SACE rules when no relevant requirement is provided.
+
+### Integrity review
+
+1. Compare the draft against the supplied task requirements: scope, source/citation rules, permitted AI use, declaration wording, and required evidence of process. Separate confirmed compliance, potential concerns, and items the author must verify.
+2. Check that claims, quotations, citations, data, tables, figures, and reference-list entries agree with one another. Flag an inconsistency or a missing link; never fabricate a source, data point, access date, research note, or justification.
+3. Preserve real writing history. Organize only files, timestamps, version labels, tracked changes, notes, and research evidence the user actually provides. If history is absent, state that it was not supplied; do not reconstruct or simulate drafts or edit trails.
+4. Keep edits proportionate. Correct language, structure, and logic while retaining the author's argument, choices, and voice. Flag a substantive rewrite for author review instead of silently replacing it.
+
+### SACE output
+
+When this module applies, add these sections after the normal revision:
+
+1. **Requirement check** — a compact mapping from each supplied requirement to confirmed evidence, concern, or author action.
+2. **Integrity record** — the real draft versions, change records, and research evidence provided, with any missing items clearly marked.
+3. **AI-use declaration check** — assess the declaration only against the supplied rule; draft neutral wording only when the user requests it and facts are provided.
+4. **Revision boundary** — identify edits that affect interpretation, evidence, or authorship and require the author's confirmation.
+
 ## Requests that need clarification
 
 Ask before changing a claim, source, statistical interpretation, technical term, citation/reference, quotation, or intended audience/discipline when the answer changes the revision. If the request is limited to language polishing, proceed without asking.
@@ -63,3 +83,5 @@ Ask before changing a claim, source, statistical interpretation, technical term,
 ## Suggested invocation
 
 “Use academic-humanizer to inspect this Chinese/English academic passage. Preserve citations, terminology, data, and my voice. Show a before/after comparison and important changes; preview invisible-character cleanup before applying it.”
+
+“Apply the SACE Academic Integrity module to this draft and the attached task requirements. Check compliance and AI-use declaration requirements, organize only the real drafts and research evidence I provide, and flag anything I need to verify.”
